@@ -4,7 +4,7 @@
 
 * None
 
-## 1.0.0.2
+## 1.0.0.3
 
 * Make it build with `stack`.
 * Updated dependencies.
